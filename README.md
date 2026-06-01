@@ -1,2 +1,2 @@
-This file only has the files, so file mught not work due to missing folders
+This file only has the files, so file might not work due to missing folders
 
